@@ -1,0 +1,37 @@
+[
+  {
+    "parent": "instrument",
+    "child": "violin",
+    "score": 0.9
+  },
+  {
+    "parent": "strings",
+    "child": "violin",
+    "score": 0.8
+  },
+  {
+    "parent": "instrument",
+    "child": "strings",
+    "score": 0.99
+  },
+  {
+    "parent": "strings",
+    "child": "viola",
+    "score": 0.83
+  },
+  {
+    "parent": "keyboard",
+    "child": "organ",
+    "score": 0.91
+  },
+  {
+    "parent": "reed",
+    "child": "oboe",
+    "score": 0.8
+  },
+  {
+    "parent": "woodwind",
+    "child": "oboe",
+    "score": 0.7
+  }
+]
